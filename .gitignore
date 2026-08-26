@@ -1,0 +1,3 @@
+# Fichiers de clés / identifiants réels - ne jamais committer
+arduino/arduino_secrets.h
+stm32/config_application.h
